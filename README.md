@@ -1,1 +1,3 @@
-# BlackBucks-MERN_STACK
+# Student Management System
+
+Run `npm install` then `npm start`.
